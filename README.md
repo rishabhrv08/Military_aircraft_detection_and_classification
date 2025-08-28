@@ -1,0 +1,2 @@
+# Military_aircraft_detection_and_classification
+Military Aircraft Detection and Classification via Modified EfficientNet Architecture
